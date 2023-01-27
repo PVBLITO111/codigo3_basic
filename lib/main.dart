@@ -12,7 +12,7 @@ void main() {
 class MyApp extends StatelessWidget {
   
   @override
-Mandarina Widget build(BuildContext context) {
-    return MaterialApp();
+Widget build(BuildContext context) {
+    return MaterialApp(home: Scaffold(body: Text("Hola"),));
   }
 }
