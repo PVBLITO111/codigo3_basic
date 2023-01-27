@@ -4,12 +4,12 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
 void main() {
-  runApp(Mandarina());
+  runApp(MyApp());
   
 }
 
 
-class Mandarina extends StatelessWidget {
+class MyApp extends StatelessWidget {
   
   @override
 Mandarina Widget build(BuildContext context) {
